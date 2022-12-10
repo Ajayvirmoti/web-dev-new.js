@@ -1,0 +1,26 @@
+body {
+    background-image: linear-gradient(to right, rgba(53, 56, 17, 10),rgb(216, 187, 23));
+}
+
+.responsive {
+    width:100%;
+    border-radius: 30px;
+    height: auto;
+}
+
+img {
+    padding: 15px;
+    width: 80%;
+}
+
+.displayBox {
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.scroll-box {
+    overflow-y: auto;
+    height: 500px;
+    float: left;
+    padding: 1rem;
+}
